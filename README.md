@@ -1,6 +1,8 @@
 # MacroUPS
 An uninterruptible power supply for high speed usb-c and usb-a charging.
 
+<img width="500" alt="CAD-Preview" src="https://github.com/user-attachments/assets/f2048298-b71a-433b-a340-427c00ee6d80" />
+
 ## Parts List
 - 1x of `PD65 fast charging module (Type-C)`, TYPE 4pcs: [link](https://www.aliexpress.com/item/3256806830457021.html)
 - 1x of `PD45 fast charging module (Type-C)`, TYPE 45W: [link](https://www.aliexpress.com/item/3256807318962557.html)
