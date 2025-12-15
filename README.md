@@ -1,7 +1,7 @@
 # MacroUPS
 An uninterruptible power supply for high speed usb-c and usb-a charging.
 
-<img width="500" alt="CAD-Preview" src="https://github.com/user-attachments/assets/f2048298-b71a-433b-a340-427c00ee6d80" />
+<img width="700" alt="CAD preview" src="MacroUPS-Preview.png" />
 
 ## Parts List
 - 1x of `PD65 fast charging module (Type-C)`, TYPE 4pcs: [link](https://www.aliexpress.com/item/3256806830457021.html)
@@ -21,3 +21,6 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `USB QC2.0/3.0 buck converter module`, TYPE 4 Channel: [link](https://www.aliexpress.com/item/3256809395236306.html)
 - 1x of `Aluminum heatsink 15x15x15mm`, TYPE 15x15x15mm: [link](https://www.aliexpress.com/item/3256803892794950.html)
 - 1x of `XL74610L ideal diode module`, TYPE 5pcs: [link](https://www.aliexpress.com/item/3256807046121608.html)
+
+## Wiring Diagram
+<img width="500" alt="Wiring diagram" src="wiringdiagram.png" />
