@@ -1,18 +1,21 @@
-Quantity,Part Name,Type/Description,Link
-1,PD65 fast charging module,Type-C 4pcs,https://www.aliexpress.com/item/3256806830457021.html
-1,PD45 fast charging module,Type-C 45W,https://www.aliexpress.us/item/3256807318962557.html
-2,PD30 fast charging module,Type-C 30W,https://www.aliexpress.us/item/3256807318962557.html
-3,120W USB-C to USB-C fast charging cable,Black C-C/2m,https://www.aliexpress.com/item/3256807024111085.html
-4,120W USB-C to USB-A fast charging cable,Black A-C/2m,https://www.aliexpress.com/item/3256807024111085.html
-1,USB-C & USB-A charging cable with LED display,100W USB C cable/1m,https://www.aliexpress.com/item/3256806737244284.html
-1,Rocker switch ON-OFF,Red 2Pin,https://www.aliexpress.com/item/2255800661582532.html
-1,DC-DC adjustable buck converter XL4015,HW-083B 4pcs,https://www.aliexpress.com/item/3256806491709950.html
-1,Battery capacity indicator voltmeter,Color Screen/CHINA,https://www.aliexpress.com/item/3256804198482360.html
-2,SPST waterproof toggle switch,N/A,https://www.aliexpress.com/item/3256808459598008.html
-2,Circuit breaker switch fuse,10A/Other,https://www.aliexpress.com/item/3256805757815979.html
-1,Circuit breaker switch fuse,15A/Other,https://www.aliexpress.com/item/3256805757815979.html
-2,DC cooling fan 40x40x25mm,8025/12V,https://www.aliexpress.com/item/3256806120222119.html
-3,Thermal switch temperature sensor 40C/H,Normally Open,https://www.aliexpress.com/item/2251832786193672.html
-1,USB QC2.0/3.0 buck converter module,4 Channel,https://www.aliexpress.com/item/3256809395236306.html
-1,Aluminum heatsink 15x15x15mm,15x15x15mm,https://www.aliexpress.com/item/3256803892794950.html
-1,XL74610L ideal diode module,5pcs,https://www.aliexpress.com/item/3256807046121608.html
+Category,Quantity,Part Number/Description,Reference Designator (Optional),Type/Specification,Supplier/Link
+Power,1,"14awg Wire 30ft",W1,15ft 14awg,"https://www.amazon.com/gp/product/B0D969PF5C/"
+Power,1,"US Power Cord 3 Prong 18AWG 6ft",PC1,N/A,"https://www.amazon.com/gp/product/B0829Q8DL9/"
+Power,1,"24V 7Ah LiFePO4 Rechargeable Battery with BMS",BAT1,24V / 7Ah,"https://www.amazon.com/gp/product/B0FH9Z4RQX/"
+Power,1,"MEAN WELL LRS-350-24",PS1,N/A,"https://www.amazon.com/gp/product/B013ETVO12/"
+Power Delivery,1,"PD65 fast charging module (Type-C)",U1,4pcs,"https://www.aliexpress.com/item/3256806830457021.html"
+Power Delivery,1,"PD45 fast charging module (Type-C)",U2,45W,"https://www.aliexpress.us/item/3256807318962557.html"
+Power Delivery,2,"PD30 fast charging module (Type-C)",U3-U4,30W,"https://www.aliexpress.us/item/3256807318962557.html"
+Power Delivery,1,"USB QC2.0/3.0 buck converter module",U5,4 Channel,"https://www.aliexpress.com/item/3256809395236306.html"
+Power Delivery,4,"120W USB-C to USB-C fast charging cable",CBL1-CBL4,Black C-C/2m,"https://www.aliexpress.com/item/3256807024111085.html"
+Power Delivery,4,"120W USB-C to USB-A fast charging cable",CBL5-CBL8,Black A-C/2m,"https://www.aliexpress.com/item/3256807024111085.html"
+Modules,1,"XL74610L ideal diode module",U6,3pcs,"https://www.aliexpress.us/item/3256808614900110.html"
+Modules,1,"DC-DC adjustable buck converter XL4015",U7,HW-083B 4pcs,"https://www.aliexpress.com/item/3256806491709950.html"
+Modules,1,"Battery capacity indicator voltmeter",MET1,Color Screen/CHINA,"https://www.aliexpress.com/item/3256804198482360.html"
+Switches + Fuses,1,"Rocker switch ON-OFF",SW1,Red 2Pin,"https://www.aliexpress.com/item/2255800661582532.html"
+Switches + Fuses,2,"SPST waterproof toggle switch",SW2-SW3,N/A,"https://www.aliexpress.com/item/3256808459598008.html"
+Switches + Fuses,2,"Circuit breaker switch fuse",CB1-CB2,10A/Other,"https://www.aliexpress.com/item/3256805757815979.html"
+Switches + Fuses,1,"Circuit breaker switch fuse",CB3,15A/Other,"https://www.aliexpress.com/item/3256805757815979.html"
+Cooling,2,"DC cooling fan 40x40x25mm",FAN1-FAN2,8025/12V,"https://www.aliexpress.com/item/3256806120222119.html"
+Cooling,3,"Thermal switch temperature sensor 40C/H",THM1-THM3,40C/H (Normally Open),"https://www.aliexpress.com/item/2251832786193672.html"
+Cooling,1,"Aluminum heatsink 15x15x15mm",HSK1,15x15x15mm,"https://www.aliexpress.com/item/3256803892794950.html"
