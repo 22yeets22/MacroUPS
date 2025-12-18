@@ -20,9 +20,11 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 4x of `120W USB-C to USB-A fast charging cable`, TYPE Black A-C/2m: [link](https://www.aliexpress.com/item/3256807024111085.html)
 
 ### Modules
-- 1x of `XL74610L ideal diode module`, TYPE 3pcs: [link](https://www.aliexpress.us/item/3256808614900110.html)
 - 1x of `DC-DC adjustable buck converter XL4015`, TYPE HW-083B 4pcs: [link](https://www.aliexpress.com/item/3256806491709950.html)
 - 1x of `Battery capacity indicator voltmeter`, TYPE Color Screen/CHINA: [link](https://www.aliexpress.com/item/3256804198482360.html)
+
+#### The Custom Ideal Diode Module
+Check the [github](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, and pickandplace.
 
 ### Switches + Fuses
 - 1x of `Rocker switch ON-OFF`, TYPE Red 2Pin: [link](https://www.aliexpress.com/item/2255800661582532.html)
