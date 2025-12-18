@@ -2,7 +2,6 @@
 An uninterruptible power supply for high speed usb-c and usb-a charging.
 
 <img width="700" alt="CAD preview" src="cadpreview.png" />
-
 ## Parts List
 ### Power
 - 1x of `14awg Wire 30ft`, TYPE 15ft 14awg: [link](https://www.amazon.com/gp/product/B0D969PF5C/)
@@ -14,6 +13,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `PD65 fast charging module (Type-C)`, TYPE 4pcs: [link](https://www.aliexpress.com/item/3256806830457021.html)
 - 1x of `PD45 fast charging module (Type-C)`, TYPE 45W: [link](https://www.aliexpress.us/item/3256807318962557.html)
 - 2x of `PD30 fast charging module (Type-C)`, TYPE 30W: [link](https://www.aliexpress.us/item/3256807318962557.html)
+- 1x of `USB-A breakout female board`, TYPE: 5PCS: [link](https://www.aliexpress.us/item/3256807147268432.html)
 - 1x of `USB QC2.0/3.0 buck converter module`, TYPE 4 Channel: [link](https://www.aliexpress.com/item/3256809395236306.html)
 - 4x of `120W USB-C to USB-C fast charging cable`, TYPE Black C-C/2m: [link](https://www.aliexpress.com/item/3256807024111085.html)
 - 4x of `120W USB-C to USB-A fast charging cable`, TYPE Black A-C/2m: [link](https://www.aliexpress.com/item/3256807024111085.html)
@@ -32,7 +32,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 ### Cooling
 - 2x of `DC cooling fan 40x40x25mm`, TYPE 8025/12V: [link](https://www.aliexpress.com/item/3256806120222119.html)
 - 3x of `Thermal switch temperature sensor 40C/H`, TYPE 40C/H (Normally Open): [link](https://www.aliexpress.com/item/2251832786193672.html)
-- 1x of `Aluminum heatsink 15x15x15mm`, TYPE 15x15x15mm: [link](https://www.aliexpress.com/item/3256803892794950.html)[link](https://www.aliexpress.com/item/3256807046121608.html)
+- 1x of `Aluminum heatsink 15x15x15mm`, TYPE 15x15x15mm: [link](https://www.aliexpress.com/item/3256803892794950.html)
 
 ## Wiring Diagram
 <img width="500" alt="Wiring diagram" src="wiringdiagram.png" />
