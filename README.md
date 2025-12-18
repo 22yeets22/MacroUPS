@@ -1,7 +1,7 @@
 # MacroUPS
 An uninterruptible power supply for high speed usb-c and usb-a charging.
 
-<img width="700" alt="CAD preview" src="MacroUPS-Preview.png" />
+<img width="700" alt="CAD preview" src="cadpreview.png" />
 
 ## Parts List
 ### Power
