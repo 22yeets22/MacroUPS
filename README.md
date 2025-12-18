@@ -2,6 +2,8 @@
 An uninterruptible power supply for high speed usb-c and usb-a charging.
 
 <img width="700" alt="CAD preview" src="cadpreview.png" />
+
+
 ## Parts List
 ### Power
 - 1x of `14awg Wire 30ft`, TYPE 15ft 14awg: [link](https://www.amazon.com/gp/product/B0D969PF5C/)
