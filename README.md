@@ -24,7 +24,9 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `Battery capacity indicator voltmeter`, TYPE Color Screen/CHINA: [link](https://www.aliexpress.com/item/3256804198482360.html)
 
 #### The Custom Ideal Diode Module
-Check the [github](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, and pickandplace.
+Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, and pickandplace.
+<img width="300" alt="Ideal diode schematic" src="Ideal%20Diode/schematic.png" />
+<img width="300" alt="Ideal diode 3d view" src="Ideal%20Diode/3d.png" />
 
 ### Switches + Fuses
 - 1x of `Rocker switch ON-OFF`, TYPE Red 2Pin: [link](https://www.aliexpress.com/item/2255800661582532.html)
