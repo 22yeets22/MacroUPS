@@ -1,22 +1,24 @@
-Quantity,Part,Type/Specs,Link
-1,14awg Wire 30ft,15ft 14awg,https://www.amazon.com/gp/product/B0D969PF5C/
-1,US Power Cord 3 Prong 18AWG 6ft,N/A,https://www.amazon.com/gp/product/B0829Q8DL9/
-1,24V 7Ah LiFePO4 Rechargeable Battery with BMS,24V / 7Ah,https://www.amazon.com/product-reviews/B0DSRT3BB8/
-1,MEAN WELL LRS-350-24,N/A,https://www.amazon.com/gp/product/B013ETVO12/
-1,PD65W fast charging module (Type-C),4pcs,https://www.aliexpress.com/item/3256806830457021.html
-1,PD45W fast charging module (Type-C),45W,https://www.aliexpress.us/item/3256807318962557.html
-2,PD30W fast charging module (Type-C),30W,https://www.aliexpress.us/item/3256807318962557.html
-1,USB-A breakout female board,5PCS,https://www.aliexpress.us/item/3256807147268432.html
-1,USB-A QC2.0/3.0 buck converter module,2 Channel,https://www.aliexpress.com/item/3256809395236306.html
-4,120W USB-C to USB-C fast charging cable,Black C-C/2m,https://www.aliexpress.com/item/3256807024111085.html
-4,120W USB-C to USB-A fast charging cable,Black A-C/2m,https://www.aliexpress.com/item/3256807024111085.html
-1,DC-DC adjustable buck converter XL4015,HW-083B 4pcs,https://www.aliexpress.com/item/3256806491709950.html
-1,Battery capacity indicator voltmeter,Color Screen/CHINA,https://www.aliexpress.com/item/3256804198482360.html
-3,CUSTOM IDEAL DIODE MODULE,N/A,https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode
-1,Rocker switch ON-OFF,Red 2Pin,https://www.aliexpress.com/item/2255800661582532.html
-2,SPST waterproof toggle switch,N/A,https://www.aliexpress.com/item/3256808459598008.html
-2,Circuit breaker switch fuse,10A/Other,https://www.aliexpress.com/item/3256805757815979.html
-1,Circuit breaker switch fuse,15A/Other,https://www.aliexpress.com/item/3256805757815979.html
-2,12v 1DC cooling fan,8025/12V,https://www.aliexpress.com/item/3256806120222119.html
-3,Thermal switch temperature sensor 40C/H,40C/H (Normally Open),https://www.aliexpress.com/item/2251832786193672.html
-1,Aluminum heatsink 15x15x15mm,15x15x15mm,https://www.aliexpress.com/item/3256803892794950.html
+Category,Quantity,Part Name,Type,Link,Price
+Power,1,14awg Wire 30ft,15ft 14awg,https://www.amazon.com/gp/product/B0D969PF5C/,$9.98
+Power,1,US Power Cord 3 Prong 18AWG 6ft,N/A,https://www.amazon.com/gp/product/B0829Q8DL9/,$8.99
+Power,1,24V 7Ah LiFePO4 Rechargeable Battery with BMS,24V / 7Ah,https://www.amazon.com/gp/product/B0DSRT3BB8/,$42.99
+Power,1,MEAN WELL LRS-350-24,N/A,https://www.amazon.com/gp/product/B013ETVO12/,$28.54
+Power Delivery,1,PD65W fast charging module (Type-C),4pcs,https://www.aliexpress.com/item/3256806830457021.html,$4.19
+Power Delivery,1,PD45W fast charging module (Type-C),45W,https://www.aliexpress.com/item/3256807318962557.html,$1.99
+Power Delivery,2,PD30W fast charging module (Type-C),30W,https://www.aliexpress.com/item/3256807318962557.html,$1.95
+Power Delivery,1,USB-A breakout female board,5PCS,https://www.aliexpress.com/item/3256807147268432.html,$1.24
+Power Delivery,1,USB-A QC2.0/3.0 buck converter module,2 Channel,https://www.aliexpress.com/item/3256809395236306.html,$1.99
+Power Delivery,3,120W USB-C to USB-C fast charging cable,Black C-C/2m,https://www.aliexpress.com/item/3256807024111085.html,$2.79
+Power Delivery,4,120W USB-C to USB-A fast charging cable,Black A-C/2m,https://www.aliexpress.com/item/3256807024111085.html,$2.21
+Power Delivery,1,NNBILI 100W USB C/A charging cable,100W USB C cable/1m,https://www.aliexpress.com/item/3256806737244284.html,$2.67
+Modules,1,DC-DC adjustable buck converter XL4015,HW-083B 4pcs,https://www.aliexpress.com/item/3256806491709950.html,$5.07
+Modules,1,Battery capacity indicator voltmeter,Color Screen/CHINA,https://www.aliexpress.com/item/3256804198482360.html,$4.46
+Modules,5,CUSTOM Ideal Diode Module,N/A,https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode,$29.12
+Switches + Fuses,1,Rocker switch ON-OFF,Red 2Pin,https://www.aliexpress.com/item/2255800661582532.html,$0.76
+Switches + Fuses,2,SPST waterproof toggle switch,N/A,https://www.aliexpress.com/item/3256808459598008.html,$2.89
+Switches + Fuses,2,Circuit breaker switch fuse,10A/Other,https://www.aliexpress.com/item/3256805757815979.html,$1.63
+Switches + Fuses,1,Circuit breaker switch fuse,15A/Other,https://www.aliexpress.com/item/3256805757815979.html,$1.89
+Cooling,2,12V DC cooling fan,8025/12V,https://www.aliexpress.com/item/3256806120222119.html,$3.59
+Cooling,3,Thermal switch temperature sensor 40C/H,40C/H (Normally Open),https://www.aliexpress.com/item/2251832786193672.html,$1.33
+Cooling,1,Aluminum heatsink 15x15x15mm,15x15x15mm,https://www.aliexpress.com/item/3256803892794950.html,$4.38
+Cooling,1,Aluminum heatsink 8.8x8.8x5mm,8.8x8.8x5mm,https://www.aliexpress.com/item/3256803892794950.html,$2.29
