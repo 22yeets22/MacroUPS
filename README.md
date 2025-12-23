@@ -11,11 +11,11 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `MEAN WELL LRS-350-24`, TYPE N/A: [link](https://www.amazon.com/gp/product/B013ETVO12/)
 
 ### Power Delivery
-- 1x of `PD65 fast charging module (Type-C)`, TYPE 4pcs: [link](https://www.aliexpress.com/item/3256806830457021.html)
-- 1x of `PD45 fast charging module (Type-C)`, TYPE 45W: [link](https://www.aliexpress.us/item/3256807318962557.html)
-- 2x of `PD30 fast charging module (Type-C)`, TYPE 30W: [link](https://www.aliexpress.us/item/3256807318962557.html)
-- 1x of `USB-A breakout female board`, TYPE: 5PCS: [link](https://www.aliexpress.us/item/3256807147268432.html)
-- 1x of `USB QC2.0/3.0 buck converter module`, TYPE 2 Channel: [link](https://www.aliexpress.com/item/3256809395236306.html)
+- 1x of `PD65W fast charging module (Type-C)`, TYPE 4pcs: [link](https://www.aliexpress.com/item/3256806830457021.html)
+- 1x of `PD45W fast charging module (Type-C)`, TYPE 45W: [link](https://www.aliexpress.us/item/3256807318962557.html)
+- 2x of `PD30W fast charging module (Type-C)`, TYPE 30W: [link](https://www.aliexpress.us/item/3256807318962557.html)
+- 1x of `USB-A breakout female board`, TYPE 5PCS: [link](https://www.aliexpress.us/item/3256807147268432.html)
+- 1x of `USB-A QC2.0/3.0 buck converter module`, TYPE 2 Channel: [link](https://www.aliexpress.com/item/3256809395236306.html)
 - 4x of `120W USB-C to USB-C fast charging cable`, TYPE Black C-C/2m: [link](https://www.aliexpress.com/item/3256807024111085.html)
 - 4x of `120W USB-C to USB-A fast charging cable`, TYPE Black A-C/2m: [link](https://www.aliexpress.com/item/3256807024111085.html)
 
