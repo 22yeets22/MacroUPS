@@ -27,7 +27,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
 | Schematic | PCB | 3D View |
 |-----------|-----|---------|
-| ![Schematic](Ideal%20Diode/schematic.png) | ![PCB](Ideal%20Diode/pcb.png) | ![3D](Ideal%20Diode/3d.png) |
+| ![Schematic](Ideal%20Diode/images/schematic.png) | ![PCB](Ideal%20Diode/images/pcb.png) | ![3D](Ideal%20Diode/images/3d.png) |
 
 ### Switches + Fuses
 - 1x of `Rocker switch ON-OFF`, TYPE Red 2Pin: [link](https://www.aliexpress.com/item/2255800661582532.html) – PRICE $0.76
