@@ -23,7 +23,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `DC-DC adjustable buck converter XL4015`, TYPE HW-083B 4pcs: [link](https://www.aliexpress.com/item/3256806491709950.html)
 - 1x of `Battery capacity indicator voltmeter`, TYPE Color Screen/CHINA: [link](https://www.aliexpress.com/item/3256804198482360.html)
 
-#### The Custom Ideal Diode Module
+#### The Custom Ideal Diode Module (3x)
 Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files.
 | Schematic | PCB | 3D View |
 |-----------|-----|---------|
