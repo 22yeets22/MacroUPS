@@ -23,12 +23,12 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `DC-DC adjustable buck converter XL4015`, TYPE HW-083B 4pcs: [link](https://www.aliexpress.com/item/3256806491709950.html) – PRICE $5.07
 - 1x of `Battery capacity indicator voltmeter`, TYPE Color Screen/CHINA: [link](https://www.aliexpress.com/item/3256804198482360.html) – PRICE $4.46
 
-#### The Custom Ideal Diode Module (3x)
+#### The Custom Ideal Diode Module (5x)
 Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
 | Schematic | PCB | 3D View |
 |-----------|-----|---------|
 | ![Schematic](Ideal%20Diode/schematic.png) | ![PCB](Ideal%20Diode/pcb.png) | ![3D](Ideal%20Diode/3d.png) |
-**Order Total:** $29.12
+**Order Total (for 5x):** $29.12
 
 ### Switches + Fuses
 - 1x of `Rocker switch ON-OFF`, TYPE Red 2Pin: [link](https://www.aliexpress.com/item/2255800661582532.html) – PRICE $0.76
