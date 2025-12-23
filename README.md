@@ -7,7 +7,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 ### Power
 - 1x of `14awg Wire 30ft`, TYPE 15ft 14awg: [link](https://www.amazon.com/gp/product/B0D969PF5C/)
 - 1x of `US Power Cord 3 Prong 18AWG 6ft`, TYPE N/A: [link](https://www.amazon.com/gp/product/B0829Q8DL9/)
-- 1x of `24V 7Ah LiFePO4 Rechargeable Battery with BMS`, TYPE 24V / 7Ah: [link](https://www.amazon.com/product-reviews/B0DSRT3BB8/)
+- 1x of `24V 7Ah LiFePO4 Rechargeable Battery with BMS`, TYPE 24V / 7Ah: [link](https://www.amazon.com/gp/product/B0DSRT3BB8/)
 - 1x of `MEAN WELL LRS-350-24`, TYPE N/A: [link](https://www.amazon.com/gp/product/B013ETVO12/)
 
 ### Power Delivery
@@ -24,7 +24,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - 1x of `Battery capacity indicator voltmeter`, TYPE Color Screen/CHINA: [link](https://www.aliexpress.com/item/3256804198482360.html)
 
 #### The Custom Ideal Diode Module (3x)
-Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files.
+Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
 | Schematic | PCB | 3D View |
 |-----------|-----|---------|
 | ![Schematic](Ideal%20Diode/schematic.png) | ![PCB](Ideal%20Diode/pcb.png) | ![3D](Ideal%20Diode/3d.png) |
@@ -37,7 +37,7 @@ Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/I
 - 1x of `Circuit breaker switch fuse`, TYPE 15A/Other: [link](https://www.aliexpress.com/item/3256805757815979.html)
 
 ### Cooling
-- 2x of `12v 1DC cooling fan`, TYPE 8025/12V: [link](https://www.aliexpress.com/item/3256806120222119.html)
+- 2x of `12v DC cooling fan`, TYPE 8025/12V: [link](https://www.aliexpress.com/item/3256806120222119.html)
 - 3x of `Thermal switch temperature sensor 40C/H`, TYPE 40C/H (Normally Open): [link](https://www.aliexpress.com/item/2251832786193672.html)
 - 1x of `Aluminum heatsink 15x15x15mm`, TYPE 15x15x15mm: [link](https://www.aliexpress.com/item/3256803892794950.html)
 
