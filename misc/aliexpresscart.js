@@ -1,4 +1,3 @@
-// steal aliexpress cart lol
 const cartItems = document.querySelectorAll('.cart-product-wrap-group-new');
 
 const cartData = [];
@@ -15,10 +14,14 @@ cartItems.forEach(item => {
     const typeDiv = item.querySelector('div.skuStr');
     const type = typeDiv?.textContent.trim() || '';
 
-    cartData.push({ name: productName, url: productUrl, quantity: quantity, type: type });
+    const priceDiv = item.querySelector('.cart-product-price-buynow .es--wrap--1Hlfkoj');
+    const price = priceDiv ? priceDiv.textContent.trim().replace(/\s+/g, '') : '';
+
+    cartData.push({ name: productName, url: productUrl, quantity: quantity, type: type, price: price });
 });
 
-// Format as a list
-const formattedList = cartData.map(d => `- ${d.quantity}x of ${d.name}, TYPE ${d.type || 'N/A'}: ${d.url}`).join('\n');
+const formattedList = cartData.map(d => 
+    `- ${d.quantity}x of ${d.name}, TYPE ${d.type || 'N/A'}, PRICE ${d.price || 'N/A'}: ${d.url}`
+).join('\n');
 
 console.log(formattedList);

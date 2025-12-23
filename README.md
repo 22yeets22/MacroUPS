@@ -1,7 +1,7 @@
 # MacroUPS
 An uninterruptible power supply for high speed usb-c and usb-a charging.
 
-<img width="700" alt="CAD preview" src="cadpreview.png" />
+<img width="700" alt="CAD preview" src="images/cadpreview.png" />
 
 ## Parts List
 ### Power
@@ -42,4 +42,4 @@ Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/I
 - 1x of `Aluminum heatsink 8.8x8.8x5mm`, TYPE 8.8x8.8x5mm: [link](https://www.aliexpress.com/item/3256803892794950.html) – PRICE $2.29
 
 ## Wiring Diagram
-<img width="400" alt="Wiring diagram" src="wiringdiagram.png" />
+<img width="400" alt="Wiring diagram" src="images/wiringdiagram.png" />
