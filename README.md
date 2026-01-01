@@ -16,7 +16,8 @@ In our house, we currently charge all our devices in one place, and there aren't
 ## Parts List
 ### Power
 - 1x of `14awg Wire 30ft`, TYPE 15ft 14awg: [link](https://www.amazon.com/gp/product/B0D969PF5C/) – PRICE $9.98
-- 1x of `US Power Cord 3 Prong 18AWG 6ft`, TYPE N/A: [link](https://www.amazon.com/gp/product/B0829Q8DL9/) – PRICE $8.99
+- 1x of `Power Supply Cable 3-Prong 1.2m`, TYPE USA: [link](https://www.aliexpress.com/item/3256807060355465.html) – PRICE $3.49
+- 1x of `IEC320 C14/C13 Panel Socket`, TYPE Type 4 / China Mainland: [link](https://www.aliexpress.com/item/3256808473935736.html) – PRICE $1.33
 - 1x of `24V 7Ah LiFePO4 Rechargeable Battery with BMS`, TYPE 24V / 7Ah: [link](https://www.amazon.com/gp/product/B0DSRT3BB8/) – PRICE $42.99
 - 1x of `MEAN WELL LRS-350-24`, TYPE N/A: [link](https://www.amazon.com/gp/product/B013ETVO12/) – PRICE $28.54
 
@@ -35,6 +36,10 @@ In our house, we currently charge all our devices in one place, and there aren't
 
 #### The Custom Ideal Diode Module (5x) - Order Total (for 5x):  $29.12
 Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
+Motivation:
+- Other cheap ideal diode modules commonly found on AliExpress are the XL74610, and people report that it has voltage drops every half second because it is groundless. This is bad, since it would cause voltage fluations and constant switching between battery and mains.
+- This ideal diode module can handle high amperage (probably 30a with good heatsinks and maybe a thicker copper pour for VIN and VOUT)
+- Voltage range is also good (50v i think, capped by capacitors)
 | Schematic | PCB | 3D View |
 |-----------|-----|---------|
 | ![Schematic](Ideal%20Diode/images/schematic.png) | ![PCB](Ideal%20Diode/images/pcb.png) | ![3D](Ideal%20Diode/images/3d.png) |
