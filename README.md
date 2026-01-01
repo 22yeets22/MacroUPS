@@ -1,7 +1,17 @@
 # MacroUPS
 An uninterruptible power supply for high speed usb-c and usb-a charging.
+### Specs
+- 180 Wh LiFePO4 battery - charges an iPhone 16 13 times from 0% to 100%
+- 250 watts usb output continuous
+- 4 fast charge usb-c ports
+- 4 usb-a ports (2 fast charge, 2 slow)
+- instantaneous switchover time
+
 
 <img width="700" alt="CAD preview" src="images/cadpreview.png" />
+
+### Motivation
+In our house, we currently charge all our devices in one place, and there aren't enough power outlets. This UPS also acts as backup power in case of an outage, so we can still charge our devices for long after the power is out.
 
 ## Parts List
 ### Power
