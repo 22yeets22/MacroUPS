@@ -36,10 +36,12 @@ In our house, we currently charge all our devices in one place, and there aren't
 
 #### The Custom Ideal Diode Module (5x) - Order Total (for 5x):  $29.12
 Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
+
 Motivation:
 - Other cheap ideal diode modules commonly found on AliExpress are the XL74610, and people report that it has voltage drops every half second because it is groundless. This is bad, since it would cause voltage fluations and constant switching between battery and mains.
 - This ideal diode module can handle high amperage (probably 30a with good heatsinks and maybe a thicker copper pour for VIN and VOUT)
 - Voltage range is also good (50v i think, capped by capacitors)
+
 | Schematic | PCB | 3D View |
 |-----------|-----|---------|
 | ![Schematic](Ideal%20Diode/images/schematic.png) | ![PCB](Ideal%20Diode/images/pcb.png) | ![3D](Ideal%20Diode/images/3d.png) |
