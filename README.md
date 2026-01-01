@@ -8,7 +8,7 @@ An uninterruptible power supply for high speed usb-c and usb-a charging.
 - instantaneous switchover time
 
 
-<img width="700" alt="CAD preview" src="images/cadpreview.png" />
+<img width="700" alt="CAD preview version 3" src="images/cadpreview.png" />
 
 ### Motivation
 In our house, we currently charge all our devices in one place, and there aren't enough power outlets. This UPS also acts as backup power in case of an outage, so we can still charge our devices for long after the power is out.
@@ -59,4 +59,4 @@ Motivation:
 - 1x of `Aluminum heatsink 8.8x8.8x5mm`, TYPE 8.8x8.8x5mm: [link](https://www.aliexpress.com/item/3256803892794950.html) – PRICE $2.29
 
 ## Wiring Diagram
-<img width="400" alt="Wiring diagram" src="images/wiringdiagram.png" />
+<img width="400" alt="Wiring diagram version 5" src="images/wiringdiagram.png" />
