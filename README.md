@@ -17,7 +17,7 @@ In our house, we currently charge all our devices in one place, and there aren't
 ### Power
 - 1x of `14awg Wire 30ft`, TYPE 15ft 14awg: [link](https://www.amazon.com/gp/product/B0D969PF5C/) – PRICE $9.98
 - 1x of `Power Supply Cable 3-Prong 1.2m`, TYPE USA: [link](https://www.aliexpress.com/item/3256807060355465.html) – PRICE $3.49
-- 1x of `IEC320 C14/C13 Panel Socket`, TYPE Type 4 / China Mainland: [link](https://www.aliexpress.com/item/3256808473935736.html) – PRICE $1.33
+- 1x of `IEC320 C14/C13 Panel Socket`, TYPE Type 4: [link](https://www.aliexpress.com/item/3256808473935736.html) – PRICE $1.33
 - 1x of `24V 7Ah LiFePO4 Rechargeable Battery with BMS`, TYPE 24V / 7Ah: [link](https://www.amazon.com/gp/product/B0DSRT3BB8/) – PRICE $42.99
 - 1x of `MEAN WELL LRS-350-24`, TYPE N/A: [link](https://www.amazon.com/gp/product/B013ETVO12/) – PRICE $28.54
 
