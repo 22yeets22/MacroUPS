@@ -56,7 +56,7 @@ Motivation:
 - 2x of `12V DC cooling fan`, TYPE 8025/12V: [link](https://www.aliexpress.com/item/3256806120222119.html) – PRICE $3.59
 - 3x of `Thermal switch temperature sensor 40C/H`, TYPE 40C/H (Normally Open): [link](https://www.aliexpress.com/item/2251832786193672.html) – PRICE $1.33
 - 1x of `Aluminum heatsink 15x15x15mm`, TYPE 15x15x15mm: [link](https://www.aliexpress.com/item/3256803892794950.html) – PRICE $4.38
-- 1x of `Aluminum heatsink 8.8x8.8x5mm`, TYPE 8.8x8.8x5mm: [link](https://www.aliexpress.com/item/3256803892794950.html) – PRICE $2.29
+- 1x of `Aluminum heatsink 8.8x8.8x5mm`, TYPE 8.8x8.8x5mm: [link](https://www.aliexpress.us/item/2251832663311102.html) – PRICE $2.29
 
 ## Wiring Diagram
 <img width="400" alt="Wiring diagram version 5" src="images/wiringdiagram.png" />
