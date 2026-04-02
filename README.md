@@ -1,6 +1,12 @@
-# MacroUPS
+<h1 align="center">
+  MacroUPS
+  <br>
+</h1>
 
-*A totally awesome uninterruptible power supply for high speed charging!*
+<h4 align="center">
+<i>A totally awesome uninterruptible power supply for high speed charging!</i>
+</h4>
+<br>
 
 ### Specs
 
@@ -8,7 +14,7 @@
 - 250 watts usb output continuous
 - 4 fast charge usb-c ports
 - 4 usb-a ports (2 fast charge, 2 slow)
-- instantaneous switchover time
+- instantaneous switchover time on power outage
 
 <img width="700" alt="CAD preview version 3" src="images/cadpreview.png" />
 
