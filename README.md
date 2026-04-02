@@ -16,7 +16,8 @@
 - 4 usb-a ports (2 fast charge, 2 slow)
 - instantaneous switchover time on power outage
 
-<img width="700" alt="CAD preview version 3" src="images/cadpreview.png" />
+<img width="500" alt="CAD preview version 3" src="images/cadpreview.png" />
+<img width="500" alt="Final Product" src="images/finalproduct.png" />
 
 ### Motivation
 
@@ -52,7 +53,7 @@ In our house, we currently charge all our devices in one place, and there aren't
 Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
 
 > [!IMPORTANT]
-> There are two versions. The first version is much smaller and does not come with screw blocks. The second version is larger, but comes with screw blocks for easier mounting. Choose the one that fits your needs best.
+> There is a folder named `DONOTUSE` with the old versions. The mosfet is the wrong direction in those versions, so please don't use them unless you like expensive paperweights.
 
 Motivation:
 
