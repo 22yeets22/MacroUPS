@@ -62,17 +62,9 @@ Motivation:
 - Voltage range is up to **40V** limited by the MOSFET.
 - 125 C max operating temperature (by components minimum temp), but please keep it cooler than that.
 
-##### V1
-
 | Schematic                                           | PCB                                     | 3D View                               |
 | --------------------------------------------------- | --------------------------------------- | ------------------------------------- |
-| ![Schematic](Ideal%20Diode/v1/images/schematic.png) | ![PCB](Ideal%20Diode/v1/images/pcb.png) | ![3D](Ideal%20Diode/v1/images/3d.png) |
-
-##### V2
-
-| Schematic                                           | PCB                                     | 3D View                               |
-| --------------------------------------------------- | --------------------------------------- | ------------------------------------- |
-| ![Schematic](Ideal%20Diode/v2/images/schematic.png) | ![PCB](Ideal%20Diode/v2/images/pcb.png) | ![3D](Ideal%20Diode/v2/images/3d.png) |
+| ![Schematic](Ideal%20Diode/v3-final/images/schematic.png) | ![PCB](Ideal%20Diode/v3-final/images/pcb-front.png) | ![3D](Ideal%20Diode/v3-final/images/3d.png) |
 
 ### Switches + Fuses
 
